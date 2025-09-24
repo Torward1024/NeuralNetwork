@@ -41,7 +41,7 @@
 
 ## 📂 Структура проекта
 StarTemperaturePrediction/\
-├── neural_network.ipynb/\
+├── neural_network.ipynb\
 └── README.md # Этот файл
 
 ## 🏆 Ключевые метрики
